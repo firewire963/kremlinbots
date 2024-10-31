@@ -1,5 +1,6 @@
 // Nicknames of kremlin bots
 // Ники кремлеботов
+// https://www.pikabu.ru/
 detaldv
 Lio2142
 NordLake
