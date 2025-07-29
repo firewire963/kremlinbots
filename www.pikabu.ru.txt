@@ -1,6 +1,7 @@
 // Nicknames of kremlin bots
 // Ники кремлеботов
 // https://www.pikabu.ru/
+// Добавляйте сразу их в игнор чтобы не читать пропогандистский шлак
 "detaldv"
 "Lio2142"
 "NordLake"
@@ -43,3 +44,5 @@
 "sovetskiislovar"
 "malovsurgut"
 "nikPolyakov"
+"user8738237"
+
