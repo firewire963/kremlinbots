@@ -2,6 +2,7 @@
 // Ники кремлеботов
 // https://www.pikabu.ru/
 // Добавляйте сразу их в игнор чтобы не читать пропогандистский шлак
+// Новые кремлеботы каждую субботу!
 "detaldv"
 "Lio2142"
 "NordLake"
@@ -45,4 +46,18 @@
 "malovsurgut"
 "nikPolyakov"
 "user8738237"
+"Vasily117"
+"G.Veretelnikov"
+"Inquabator"
+"svlg"
+"TriumphStudios"
+"Rahlkan"
+"Ignatbrat"
+"user.rabanalz"
+"proudman"
+"Polnochinespati"
+
+
+
+
 
